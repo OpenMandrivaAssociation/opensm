@@ -1,2 +1,4 @@
+removed_sources:
+  opensm-3.3.17.tar.gz: 58a588b1e6eff7d481a5dfa2555fc01bc8342f58
 sources:
-  "opensm-3.3.17.tar.gz": 58a588b1e6eff7d481a5dfa2555fc01bc8342f58
+  opensm-3.3.20.tar.gz: 5fed27362c1c32ca5a6bb708f3e2d62df22250a2
