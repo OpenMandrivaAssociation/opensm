@@ -16,7 +16,7 @@ Patch0:		opensm-3.3.17-prefix.patch
 BuildRequires:		libibmad-devel
 BuildRequires:		bison
 BuildRequires:		byacc
-BuildRequires:		bison
+BuildRequires:		flex
 BuildRequires:		systemd
 Requires:		%{name}-libs = %{version}-%{release},
 Requires:		logrotate
