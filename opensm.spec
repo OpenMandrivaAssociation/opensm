@@ -1,7 +1,7 @@
 %define _disable_ld_no_undefined	1
 Name:		opensm
 Version:	3.3.20
-Release:	1
+Release:	2
 Summary:	OpenIB InfiniBand Subnet Manager and management utilities
 License:	GPLv2 or BSD
 Url:		http://www.openfabrics.org/
