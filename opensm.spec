@@ -4,7 +4,7 @@ Version:	3.3.20
 Release:	2
 Summary:	OpenIB InfiniBand Subnet Manager and management utilities
 License:	GPLv2 or BSD
-Url:		http://www.openfabrics.org/
+Url:		https://www.openfabrics.org/
 Source0:	http://www.openfabrics.org/downloads/management/%{name}-%{version}.tar.gz
 Source2:	opensm.logrotate
 Source4:	opensm.sysconfig
