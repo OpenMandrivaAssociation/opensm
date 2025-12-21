@@ -13,6 +13,11 @@ Source6:	opensm.launch
 Source7:	opensm.rwtab
 Patch0:		opensm-3.3.17-prefix.patch
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:		libibmad-devel
 BuildRequires:		bison
 BuildRequires:		byacc
